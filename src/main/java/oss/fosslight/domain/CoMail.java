@@ -949,6 +949,5 @@ public class CoMail extends ComBean {
 	public void setParamOssInfoMap(Map<String, OssMaster> paramOssInfoMap) {
 		this.paramOssInfoMap = paramOssInfoMap;
 	}
-	
-	
+
  } 
